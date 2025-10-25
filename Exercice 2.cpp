@@ -3,7 +3,7 @@
 #include <string>
 using namespace std;
 
-// Structure pour représenter un article
+
 struct Article {
     string nom;
     double prixUnitaire;
@@ -19,22 +19,22 @@ private:
     vector<Article> articles;
 
 public:
-    // Version avec nom et prix unitaire (quantité=1, TVA=20%)
+    
     void ajouterArticle(const string& nom, double prix) {
         articles.push_back(Article(nom, prix));
     }
 
-    // Version avec nom, prix et quantité (TVA=20%)
+   
     void ajouterArticle(const string& nom, double prix, int quantite) {
         articles.push_back(Article(nom, prix, quantite));
     }
 
-    // Version avec nom, prix, quantité et TVA
+    
     void ajouterArticle(const string& nom, double prix, int quantite, double tva) {
         articles.push_back(Article(nom, prix, quantite, tva));
     }
 
-    // Méthode pour afficher le total de la facture
+   
     void afficherTotal() const {
         double total = 0;
         cout << "Facture détaillée :" << endl;
