@@ -7,9 +7,9 @@ Chaque exercice illustre l’adaptation du comportement d’une classe selon les
 
 ---
 
-## Exercices
 
-### Exercice 1 : Gestion d’un carnet d’adresses
+
+## Exercice 1 : Gestion d’un carnet d’adresses
 
 **Objectif pédagogique :**  
 Comprendre la surcharge de constructeurs en fonction des paramètres disponibles.
@@ -45,7 +45,7 @@ Voici un exemple de l'exécution du programme (screenshot) :
 
 ---
 
-### Exercice 2 : Système de facturation
+## Exercice 2 : Système de facturation
 
 **Objectif pédagogique :**  
 Maîtriser la surcharge de méthodes pour ajouter des articles à une facture.
@@ -79,7 +79,7 @@ Voici un exemple de l'exécution du programme (screenshot) :
 
 ---
 
-### Exercice 3 : Banque – Compte bancaire
+## Exercice 3 : Banque – Compte bancaire
 
 **Objectif pédagogique :**  
 Savoir surcharger constructeurs et méthodes pour gérer la logique métier et la sécurité.
