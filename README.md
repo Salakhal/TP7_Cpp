@@ -28,7 +28,7 @@ Nom : Salma
 Téléphone : Non défini
 Email : Non défini
 ----------------------
-Nom : Adnane
+Nom : Adnan
 Téléphone : 0601020304
 Email : Non défini
 ----------------------
@@ -37,6 +37,10 @@ Téléphone : 0611223344
 Email : imane@email.com
 ----------------------
 ```
+ ##  Exemple d’exécution (image)
+ 
+Voici un exemple de l'exécution du programme (screenshot) : 
+
 <img width="768" height="425" alt="image" src="https://github.com/user-attachments/assets/180e1eb3-f215-4594-adcc-5576992f7f12" />
 
 ---
@@ -66,6 +70,10 @@ Sac à dos - Prix: 50 x 1 (TVA 10%) = 55
 Total facture : 76
 
 ```
+ ##  Exemple d’exécution (image)
+ 
+Voici un exemple de l'exécution du programme (screenshot) : 
+
 <img width="769" height="220" alt="image" src="https://github.com/user-attachments/assets/54e33137-725e-4c68-9cda-95f9c1c06208" />
 
 
@@ -98,7 +106,9 @@ Solde actuel : 800 €
 Solde actuel : 400 €
 
 ```
-
+ ##  Exemple d’exécution (image)
+ 
+Voici un exemple de l'exécution du programme (screenshot) : 
 
 <img width="790" height="390" alt="image" src="https://github.com/user-attachments/assets/1906e6d5-4b2f-447a-b3cc-fa75ad848391" />
 
